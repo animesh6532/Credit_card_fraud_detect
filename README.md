@@ -5,6 +5,10 @@ go to terminal of the project file:: then run commands
 
 cd backend_api
 
+.\venv\Scripts\activate
+
+pip install uvicorn fastapi
+
 uvicorn main:app --reload
 
 
