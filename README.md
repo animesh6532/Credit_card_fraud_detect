@@ -1,18 +1,18 @@
 # Credit_card_fraud_detect
 
 running of backend 
-go to terminal of the project file::
----
-backend_api
----
+go to terminal of the project file:: then run commands
+
+cd backend_api
+
 uvicorn main:app --reload
 
 
 
-running of frontend::
----
+running of frontend::then run commands
+
 cd fraud-frontend
----
+
 npm run dev
 
 
